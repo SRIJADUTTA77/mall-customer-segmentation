@@ -1,3 +1,4 @@
+![Python CI](https://github.com/SRIJADUTTA77/mall-customer-segmentation/actions/workflows/python-app.yml/badge.svg)
 # ?? Mall Customer Segmentation using K-Means Clustering
 
 This project performs customer segmentation on mall visitors using K-Means clustering to identify distinct shopping behaviors based on age, income, and spending score.
